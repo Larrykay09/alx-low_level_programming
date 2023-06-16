@@ -5,7 +5,7 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-}
+{
 	puts("\"prograramming is like building a multilingual puzzle");
 	return (0);	
 }
