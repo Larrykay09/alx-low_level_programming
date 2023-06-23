@@ -1,7 +1,9 @@
 #include "main.h"
+
 /**
  * _isdigt - check if numbers are 0 - 9
  * @C: char to be checked
+ *
  * Return: 0 or 1
  */
 
